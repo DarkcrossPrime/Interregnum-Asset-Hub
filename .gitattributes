@@ -1,0 +1,25 @@
+# Text formats the game reads: keep LF line endings so diffs stay clean on every OS
+*.obj    text eol=lf
+*.mtl    text eol=lf
+*.md     text eol=lf
+*.csv    text eol=lf
+*.json   text eol=lf
+*.mcmeta text eol=lf
+
+# Game textures stay in plain git (small, needed by every clone)
+*.png binary
+
+# Heavy working files go through Git LFS
+*.blend filter=lfs diff=lfs merge=lfs -text
+*.fbx   filter=lfs diff=lfs merge=lfs -text
+*.psd   filter=lfs diff=lfs merge=lfs -text
+*.kra   filter=lfs diff=lfs merge=lfs -text
+*.spp   filter=lfs diff=lfs merge=lfs -text
+*.sbs   filter=lfs diff=lfs merge=lfs -text
+*.sbsar filter=lfs diff=lfs merge=lfs -text
+*.tga   filter=lfs diff=lfs merge=lfs -text
+*.tif   filter=lfs diff=lfs merge=lfs -text
+*.tiff  filter=lfs diff=lfs merge=lfs -text
+*.exr   filter=lfs diff=lfs merge=lfs -text
+*.zip   filter=lfs diff=lfs merge=lfs -text
+*.7z    filter=lfs diff=lfs merge=lfs -text

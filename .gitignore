@@ -1,0 +1,17 @@
+# Editor backups and autosaves
+*.blend1
+*.blend2
+*.bak
+*.tmp
+*~
+*.autosave
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Tool caches
+.vscode/
+.idea/
+__pycache__/

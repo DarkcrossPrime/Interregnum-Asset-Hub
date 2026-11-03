@@ -1,0 +1,19 @@
+# Night vision goggles
+
+Board ticket `t018` | category `armor` | 1 variant
+
+![Old asset](preview.png)
+
+## Variants to replace
+
+- `nv_goggles`
+
+Each variant in `old/` has its own `models/` and `textures/`. Deliver one replacement per variant in `new/`, using the same variant names unless agreed otherwise.
+
+## Where the old asset lives in the mod
+
+- `content/armor/mask/nv_goggles`
+
+## Status
+
+Not started

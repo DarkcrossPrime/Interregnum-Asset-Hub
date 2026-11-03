@@ -1,0 +1,28 @@
+# PKM / PKP
+
+Board ticket `g01` | category `gun/mg` | 2 variants
+
+![Old asset](preview.png)
+
+## Variants to replace
+
+- `pkm`
+- `pkp`
+
+Each variant in `old/` has its own `models/` and `textures/`. Deliver one replacement per variant in `new/`, using the same variant names unless agreed otherwise.
+
+## Animations (reference only)
+
+- `pkm`: fire, rack, reload1, slide_back
+- `pkp`: fire, rack, reload1, slide_back
+
+The mod's weapon and animation pipeline is being replaced, so the new gun does not need to fit these. Agree the delivery format with the owner (see CONTRIBUTING.md).
+
+## Where the old asset lives in the mod
+
+- `content/gun/mg/pkm`
+- `content/gun/mg/pkp`
+
+## Status
+
+Not started

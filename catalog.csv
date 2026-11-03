@@ -1,0 +1,223 @@
+ticket,category,name,folder,variants,status
+t001,armor,"Bandit",assets/armor/bandit,1,Not started
+t002,armor,"Cap",assets/armor/cap,4,Not started
+t003,armor,"Casual",assets/armor/casual,5,Not started
+t004,armor,"Ghillie suit",assets/armor/ghillie-suit,3,Not started
+t005,armor,"Hazmat",assets/armor/hazmat,1,Not started
+t006,armor,"Hoodie",assets/armor/hoodie,9,Not started
+t007,armor,"Juggernaut",assets/armor/juggernaut,5,Not started
+t008,armor,"Marine",assets/armor/marine,19,Not started
+t009,armor,"Militia",assets/armor/militia,1,Not started
+t010,armor,"NYPD",assets/armor/nypd,2,Not started
+t011,armor,"Santa hat",assets/armor/santa-hat,1,Not started
+t012,armor,"SAS",assets/armor/sas,2,Not started
+t013,armor,"Spetsnaz",assets/armor/spetsnaz,1,Not started
+t014,armor,"UAHD",assets/armor/uahd,1,Not started
+t015,armor,"Wrist timer",assets/armor/wrist-timer,2,Not started
+t016,armor,"Balaclava (armor)",assets/armor/balaclava,1,Not started
+t017,armor,"Gas mask",assets/armor/gas-mask,2,Not started
+t018,armor,"Night vision goggles",assets/armor/night-vision-goggles,1,Not started
+t019,armor,"Bulletproof vest",assets/armor/bulletproof-vest,1,Not started
+t020,armor,"Heavy vest",assets/armor/heavy-vest,1,Not started
+t021,armor,"Suicide vest",assets/armor/suicide-vest,1,Not started
+t022,attachment,"AR suppressor",assets/attachment/ar-suppressor,1,Not started
+t023,attachment,"Bayonet",assets/attachment/bayonet,1,Not started
+t024,attachment,"MG suppressor",assets/attachment/mg-suppressor,1,Not started
+t025,attachment,"Pistol suppressor",assets/attachment/pistol-suppressor,1,Not started
+t026,attachment,"Shotgun suppressor",assets/attachment/shotgun-suppressor,1,Not started
+t027,attachment,"SMG suppressor",assets/attachment/smg-suppressor,1,Not started
+t028,attachment,"Flashlight",assets/attachment/flashlight,1,Not started
+t029,attachment,"Foregrip",assets/attachment/foregrip,1,Not started
+t030,attachment,"Laser",assets/attachment/laser,1,Not started
+t031,attachment,"2x sight",assets/attachment/2x-sight,1,Not started
+t032,attachment,"4x sight",assets/attachment/4x-sight,1,Not started
+t033,attachment,"8x sight",assets/attachment/8x-sight,1,Not started
+t034,attachment,"Dragunov scope",assets/attachment/dragunov-scope,1,Not started
+t035,attachment,"Red dot",assets/attachment/red-dot,1,Not started
+t036,attachment,"Thermal sight",assets/attachment/thermal-sight,1,Not started
+t037,backpack,"Chest rig",assets/backpack/chest-rig,1,Not started
+t038,backpack,"Duffle bag",assets/backpack/duffle-bag,1,Not started
+t039,backpack,"Fanny pack",assets/backpack/fanny-pack,1,Not started
+t040,backpack,"Hiking pack",assets/backpack/hiking-pack,1,Not started
+t041,backpack,"Huge military pack",assets/backpack/huge-military-pack,1,Not started
+t042,backpack,"Plate carrier",assets/backpack/plate-carrier,1,Not started
+t043,item,"Baseball bat",assets/item/baseball-bat,2,Not started
+t044,item,"Combat knife",assets/item/combat-knife,1,Not started
+t045,item,"Crowbar",assets/item/crowbar,1,Not started
+t046,item,"Fire axe",assets/item/fire-axe,1,Not started
+t047,item,"Guitar",assets/item/guitar,1,Not started
+t048,item,"Ice pick",assets/item/ice-pick,1,Not started
+t049,item,"Machete",assets/item/machete,1,Not started
+t050,mask,"Balaclava",assets/mask/balaclava,1,Not started
+t051,misc,"Hang glider",assets/misc/hang-glider,1,Not started
+t052,misc,"Humvee (misc)",assets/misc/humvee,1,Not started
+t053,misc,"Jet",assets/misc/jet,1,Not started
+t054,misc,"M1 Abrams",assets/misc/m1-abrams,1,Not started
+t055,misc,"Turret",assets/misc/turret,1,Not started
+t056,misc,"Zombie drug machine",assets/misc/zombie-drug-machine,1,Not started
+t057,mob,"Stash",assets/mob/stash,1,Not started
+t058,placeable,"Mortar",assets/placeable/mortar,1,Not started
+t059,projectile,"Intermediate casing",assets/projectile/intermediate-casing,1,Not started
+t060,projectile,"Crossbow bolt",assets/projectile/crossbow-bolt,1,Not started
+t061,vehicle,"BTR-70",assets/vehicle/btr-70,1,Not started
+t062,vehicle,"Buggy",assets/vehicle/buggy,1,Not started
+t063,vehicle,"Hummer",assets/vehicle/hummer,1,Not started
+t064,vehicle,"M35 truck",assets/vehicle/m35-truck,1,Not started
+t065,block,"Acid pit",assets/block/acid-pit,1,Not started
+t066,block,"Alarm bell",assets/block/alarm-bell,1,Not started
+t067,block,"Ammo crate",assets/block/ammo-crate,2,Not started
+t068,block,"Barrier",assets/block/barrier,2,Not started
+t069,block,"Bicycle",assets/block/bicycle,1,Not started
+t070,block,"Body bag",assets/block/body-bag,4,Not started
+t071,block,"CCTV camera",assets/block/cctv-camera,1,Not started
+t072,block,"Can fire",assets/block/can-fire,1,Not started
+t073,block,"Cardboard boxes",assets/block/cardboard-boxes,3,Not started
+t074,block,"Care package",assets/block/care-package,1,Not started
+t075,block,"Ceiling vent",assets/block/ceiling-vent,2,Not started
+t076,block,"Chair",assets/block/chair,1,Not started
+t077,block,"Chess table",assets/block/chess-table,1,Not started
+t078,block,"Cone",assets/block/cone,1,Not started
+t079,block,"Cooking station",assets/block/cooking-station,1,Not started
+t080,block,"Blue door",assets/block/blue-door,3,Not started
+t081,block,"Emergency door",assets/block/emergency-door,3,Not started
+t082,block,"Green door",assets/block/green-door,3,Not started
+t083,block,"Orange door",assets/block/orange-door,3,Not started
+t084,block,"Infektor security door",assets/block/infektor-security-door,1,Not started
+t085,block,"Metal door",assets/block/metal-door,1,Not started
+t086,block,"Office door",assets/block/office-door,1,Not started
+t087,block,"Security door",assets/block/security-door,1,Not started
+t088,block,"Dumpster",assets/block/dumpster,1,Not started
+t089,block,"Electric box",assets/block/electric-box,3,Not started
+t090,block,"Flag pole",assets/block/flag-pole,2,Not started
+t091,block,"Flatscreen TV",assets/block/flatscreen-tv,5,Not started
+t092,block,"Hazard lights",assets/block/hazard-lights,2,Not started
+t093,block,"Hazard barrier",assets/block/hazard-barrier,1,Not started
+t094,block,"Hazard pole",assets/block/hazard-pole,1,Not started
+t095,block,"Czech hedgehog",assets/block/czech-hedgehog,1,Not started
+t096,block,"Keycard screen",assets/block/keycard-screen,3,Not started
+t097,block,"Lantern",assets/block/lantern,1,Not started
+t098,block,"Mailbox",assets/block/mailbox,1,Not started
+t099,block,"Maintenance screen",assets/block/maintenance-screen,1,Not started
+t100,block,"Mech wreckage",assets/block/mech-wreckage,1,Not started
+t101,block,"Supply crate",assets/block/supply-crate,3,Not started
+t102,block,"Metal shelf",assets/block/metal-shelf,2,Not started
+t103,block,"Metal table",assets/block/metal-table,1,Not started
+t104,block,"Metro railing",assets/block/metro-railing,2,Not started
+t105,block,"Military barrier",assets/block/military-barrier,1,Not started
+t106,block,"Military radio",assets/block/military-radio,4,Not started
+t107,block,"Missile launcher",assets/block/missile-launcher,1,Not started
+t108,block,"Monitor",assets/block/monitor,1,Not started
+t109,block,"News stand",assets/block/news-stand,2,Not started
+t110,block,"Office chair",assets/block/office-chair,1,Not started
+t111,block,"Phone booth",assets/block/phone-booth,1,Not started
+t112,block,"Phone box",assets/block/phone-box,1,Not started
+t113,block,"Power generator",assets/block/power-generator,1,Not started
+t114,block,"Power pole",assets/block/power-pole,1,Not started
+t115,block,"Present",assets/block/present,3,Not started
+t116,block,"Radio",assets/block/radio,1,Not started
+t117,block,"Radio tower",assets/block/radio-tower,1,Not started
+t118,block,"Red light",assets/block/red-light,1,Not started
+t119,block,"Road sign",assets/block/road-sign,8,Not started
+t120,block,"Shop display",assets/block/shop-display,1,Not started
+t121,block,"Skeleton",assets/block/skeleton,2,Not started
+t122,block,"Spotlight",assets/block/spotlight,1,Not started
+t123,block,"Stereo",assets/block/stereo,1,Not started
+t124,block,"Street barrier",assets/block/street-barrier,1,Not started
+t125,block,"Street bench",assets/block/street-bench,1,Not started
+t126,block,"Street bin",assets/block/street-bin,1,Not started
+t127,block,"Street light",assets/block/street-light,2,Not started
+t128,block,"Stretcher",assets/block/stretcher,1,Not started
+t129,block,"Studio camera",assets/block/studio-camera,1,Not started
+t130,block,"Target",assets/block/target,1,Not started
+t131,block,"Ticket gate",assets/block/ticket-gate,1,Not started
+t132,block,"Tire",assets/block/tire,2,Not started
+t133,block,"Traffic lights",assets/block/traffic-lights,2,Not started
+t134,block,"Trash bag",assets/block/trash-bag,2,Not started
+t135,block,"Trash can",assets/block/trash-can,1,Not started
+t136,block,"Truck wreckage",assets/block/truck-wreckage,6,Not started
+t137,block,"Vending machine",assets/block/vending-machine,2,Not started
+t138,block,"Wall flag",assets/block/wall-flag,1,Not started
+t139,block,"Washing machine",assets/block/washing-machine,1,Not started
+t140,block,"Water pallet",assets/block/water-pallet,2,Not started
+t141,block,"Water fountain",assets/block/water-fountain,1,Not started
+t142,block,"Water pump",assets/block/water-pump,1,Not started
+t143,block,"Weapon cabinet",assets/block/weapon-cabinet,1,Not started
+t144,block,"Wood crate",assets/block/wood-crate,1,Not started
+t145,block,"Wood table",assets/block/wood-table,2,Not started
+t146,block,"Wreckage",assets/block/wreckage,5,Not started
+t147,block,"Military wreckage",assets/block/military-wreckage,3,Not started
+t148,block,"Police wreckage",assets/block/police-wreckage,3,Not started
+t201,gun/crossbow,"Crossbow",assets/gun/crossbow/crossbow,1,Not started
+t202,gun/mg,"M1919A6",assets/gun/mg/m1919a6,1,Not started
+t203,gun/mg,"M240",assets/gun/mg/m240,1,Not started
+t204,gun/mg,"M60",assets/gun/mg/m60,1,Not started
+t205,gun/mg,"MG3",assets/gun/mg/mg3,1,Not started
+t206,gun/mg,"Minigun",assets/gun/mg/minigun,1,Not started
+t207,gun/mg,"Mk 48",assets/gun/mg/mk-48,1,Not started
+g01,gun/mg,"PKM / PKP",assets/gun/mg/pkm-pkp,2,Not started
+t210,gun/mg,"RPD",assets/gun/mg/rpd,1,Not started
+t211,gun/pistol,"Beretta M9",assets/gun/pistol/beretta-m9,1,Not started
+t212,gun/pistol,"Browning Hi-Power",assets/gun/pistol/browning-hi-power,1,Not started
+t213,gun/pistol,"Colt",assets/gun/pistol/colt,1,Not started
+t214,gun/pistol,"CZ 52",assets/gun/pistol/cz-52,1,Not started
+t215,gun/pistol,"Desert Eagle",assets/gun/pistol/desert-eagle,1,Not started
+t216,gun/pistol,"Glock 17",assets/gun/pistol/glock-17,1,Not started
+t217,gun/pistol,"Beretta M1934",assets/gun/pistol/beretta-m1934,1,Not started
+t218,gun/pistol,"Makarov",assets/gun/pistol/makarov,1,Not started
+t219,gun/revolver,"Raging Bull",assets/gun/revolver/raging-bull,1,Not started
+t220,gun/rifle,"AK-12",assets/gun/rifle/ak-12,1,Not started
+g02,gun/rifle,"AK-74 family (AK-74, AKS-74, AKS-74U, RPK-74)",assets/gun/rifle/ak-74-family,4,Not started
+g03,gun/rifle,"AKM family (AKM, AKMS, RPK, KMS-72)",assets/gun/rifle/akm-family,4,Not started
+g04,gun/rifle,"AR-15 / M16 family (AR-15, Beowulf, M16A1, M16A2, M4A4, XM177)",assets/gun/rifle/ar-15-m16-family,6,Not started
+t228,gun/rifle,"AS Val",assets/gun/rifle/as-val,1,Not started
+g05,gun/rifle,"AUG (A1, A3, A3 Para)",assets/gun/rifle/aug,3,Not started
+t232,gun/rifle,"Barrett",assets/gun/rifle/barrett,1,Not started
+g06,gun/rifle,"FAL / ParaFAL",assets/gun/rifle/fal-parafal,2,Not started
+g07,gun/rifle,"FAMAS",assets/gun/rifle/famas,2,Not started
+g08,gun/rifle,"FN SCAR (SCAR, HAMR, L, SC, SSR)",assets/gun/rifle/fn-scar,5,Not started
+t241,gun/rifle,"G36C",assets/gun/rifle/g36c,1,Not started
+g09,gun/rifle,"G3 (G3A3, G3A4)",assets/gun/rifle/g3,2,Not started
+g10,gun/rifle,"Galil / Galil SAR",assets/gun/rifle/galil,2,Not started
+t246,gun/rifle,"Honey Badger",assets/gun/rifle/honey-badger,1,Not started
+t247,gun/rifle,"INSAS",assets/gun/rifle/insas,1,Not started
+t248,gun/rifle,"JNG-90",assets/gun/rifle/jng-90,1,Not started
+t249,gun/rifle,"Kar98k",assets/gun/rifle/kar98k,1,Not started
+t251,gun/rifle,"L115A3",assets/gun/rifle/l115a3,1,Not started
+t252,gun/rifle,"L85A1",assets/gun/rifle/l85a1,1,Not started
+t253,gun/rifle,"M110",assets/gun/rifle/m110,1,Not started
+t254,gun/rifle,"M14",assets/gun/rifle/m14,1,Not started
+t257,gun/rifle,"M1 Garand",assets/gun/rifle/m1-garand,1,Not started
+t258,gun/rifle,"M231",assets/gun/rifle/m231,1,Not started
+t260,gun/rifle,"Mosin-Nagant",assets/gun/rifle/mosin-nagant,1,Not started
+t261,gun/rifle,"MPT-76",assets/gun/rifle/mpt-76,1,Not started
+t265,gun/rifle,"SKS",assets/gun/rifle/sks,1,Not started
+t266,gun/rifle,"SV-98",assets/gun/rifle/sv-98,1,Not started
+t267,gun/rifle,"SVD",assets/gun/rifle/svd,1,Not started
+t268,gun/rifle,"SVT-40",assets/gun/rifle/svt-40,1,Not started
+t269,gun/rifle,"vz. 52",assets/gun/rifle/vz-52,1,Not started
+t270,gun/rifle,"vz. 58",assets/gun/rifle/vz-58,1,Not started
+t272,gun/rocket,"M79",assets/gun/rocket/m79,1,Not started
+t273,gun/rocket,"MGL Mk1L",assets/gun/rocket/mgl-mk1l,1,Not started
+t274,gun/rocket,"RPG-18",assets/gun/rocket/rpg-18,1,Not started
+t275,gun/rocket,"RPG-7",assets/gun/rocket/rpg-7,1,Not started
+t276,gun/shotgun,"AA-12",assets/gun/shotgun/aa-12,1,Not started
+t277,gun/shotgun,"Benelli M4",assets/gun/shotgun/benelli-m4,1,Not started
+g11,gun/shotgun,"Double barrel (full, sawn-off)",assets/gun/shotgun/double-barrel,2,Not started
+t280,gun/shotgun,"KS-23",assets/gun/shotgun/ks-23,1,Not started
+t281,gun/shotgun,"Remington 870",assets/gun/shotgun/remington-870,1,Not started
+t282,gun/shotgun,"SPAS-12",assets/gun/shotgun/spas-12,1,Not started
+t283,gun/smg,"KP/-31",assets/gun/smg/kp-31,1,Not started
+g12,gun/smg,"MP 40 / MPi 40",assets/gun/smg/mp-40-mpi-40,2,Not started
+t285,gun/smg,"MP5A3",assets/gun/smg/mp5a3,1,Not started
+t286,gun/smg,"MP7",assets/gun/smg/mp7,1,Not started
+t288,gun/smg,"P90",assets/gun/smg/p90,1,Not started
+t289,gun/smg,"Sten Mk II",assets/gun/smg/sten-mk-ii,1,Not started
+g13,gun/smg,"Thompson",assets/gun/smg/thompson,2,Not started
+t292,gun/smg,"UMP45",assets/gun/smg/ump45,1,Not started
+t293,gun/smg,"Uzi",assets/gun/smg/uzi,1,Not started
+t294,gun/smg,"Vector",assets/gun/smg/vector,1,Not started
+t295,gun/smg,"vz. 24",assets/gun/smg/vz-24,1,Not started
+t296,gun/pistol,"APS",assets/gun/pistol/aps,1,Not started
+t297,gun/revolver,"Model 642",assets/gun/revolver/model-642,1,Not started
+t298,gun/rifle,"ACR",assets/gun/rifle/acr,1,Not started
+ref,block,"Military ammo can",assets/block/military-ammo-can,2,Done

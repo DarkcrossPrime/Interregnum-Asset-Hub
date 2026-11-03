@@ -1,0 +1,3 @@
+newmtl m0
+Kd 1 1 1
+map_Kd ../textures/mailbox.png
